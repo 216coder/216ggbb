@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang = "ko">
+    <head>
+        <meta charset="utf-8" />
+        <title>title</title>
+    </head>
+    <body>
+    <H1> 46기 김상민의 웹페이지에 오신걸 환영합니다. </H1> 
+    <B>2022년 12월 14일에 김상민 교육생이 만듦.</B>   
+    <br><br>
+    <em>나의 좌우명: 될 때까지 한다!</em>
+
+    <p>
+      6개월이라는 시간이 엄청 힘들 수는 있어도 열심히 해봐야지
+    </p>
+    <p>
+      오늘의 수업은 어려웠지만 수업 내용 정리한거와 복습한거 가지고 열심히!!
+    </p>
+
+    <S> 나의 속마음: 솔직히 수업하면서 집에가서 놀고 싶었지만 참았다!! </S>
+    <br><br>
+    <u> 하지만 이런 나약한 속마음은 방해가 될 뿐 오늘도 열심히!!</u>
+    <br><br>
+    <big> 나의 장점으로 기술이 충만한 개발자가 될 것이다!!</big>
+    <br><br>
+    <small> 하지만 게으른 단점은 고쳐나가야 한다. </small>
+    
+    <br><br>
+    <B>동기부여 영상</B> 
+    <br>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/N7gs6rohEl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br>
+    <B> 못 생겼지만 나의 사진</B>
+    <br>
+    <img src="https://i.imgur.com/npBaeoM.jpg" title="source: imgur.com" /></a>
+    </body>
+    <br>   <br>
+    <a href="https://blog.naver.com/code-216">나의 블로그 주소</a> 
+    <br>
+    
+    <B> 나의 간단한 소개 </B>
+    <table border = '1'>
+      <thead>
+        <tr>
+          <th> 사진 </th>
+          <th> 이름 </th>
+          <th> 나이 </th>
+          <th> 성별 </th>
+          <th> 출신학교 </th>
+          <th> 전화번호 </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td> <img src="http://minibox.comsem.co.kr/minifile/nebangpopup/photo/photo_img/photo_176166_1805896_20090917185630.JPEG"> </td>
+          <td> 김상민(金相敏) </td>
+          <td> 한국나이 25살, 만나이로는 24살 </td>
+          <td> 대한민국 남성 </td>
+          <td> 한국폴리텍대학 전북캠퍼스 </td>
+          <td> 010-1234-5678 </td>
+        </tr>
+      </tbody>
+    </table>
+    <B> 좋아하는 것 </B>
+    <ol>
+      <li> 게임 </li>
+      <li> 블로그 </li>
+      <li> 카페 </li>
+
+    </ol>
+    <B> 싫어하는 것 </B>
+    <ol>
+      <li> 운동 </li>
+      <li> 게으름 </li>
+      <li> 무지함 </li>
+
+    </ol>
+
+    <B> 아이디 </B><input type = "text">
+    <B> 비밀번호 </B><input type = "text">
+</html>
